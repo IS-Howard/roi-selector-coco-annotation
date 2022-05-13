@@ -1,0 +1,6 @@
+[config]
+image_folder = ./dataset/imgsel2
+mask_folder = ./dataset/maskimg2
+annotation_output = ./dataset/2.json
+classes = mice/
+colors = 255,0,0/

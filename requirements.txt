@@ -1,0 +1,13 @@
+## pip install -r requirements.txt
+
+Pillow
+Shapely
+scikit-image
+numpy
+matplotlib
+opencv-python
+scikit-learn
+
+## install manually
+#torch==1.6.0+cu101
+#torchvision==0.7.0+cu101
