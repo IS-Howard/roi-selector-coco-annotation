@@ -42,7 +42,7 @@ python roi_selector.py
 
 Then the window will show up, then you can select four boundary points of the segment roi. Press enter when done, the mask image will generated automatically.
 
-![crop](G:\git\roi-selector-coco-annotation\data\crop.gif)
+![crop](data/crop.gif)
 
 ## Generate COCO format JSON file
 
